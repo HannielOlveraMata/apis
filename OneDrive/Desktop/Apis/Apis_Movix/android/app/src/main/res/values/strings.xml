@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Apis_Movix</string>
+  <string name="expo_splash_screen_resize_mode" translatable="false">contain</string>
+  <string name="expo_splash_screen_status_bar_translucent" translatable="false">false</string>
+  <string name="server_client_id">22470941830-vc3gqspsbn91vora5kn893rklnhvaab8.apps.googleusercontent.com</string>
+  <string name="expo_runtime_version">1.0.0</string>
+</resources>
